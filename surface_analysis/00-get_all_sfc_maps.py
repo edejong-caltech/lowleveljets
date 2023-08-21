@@ -6,7 +6,7 @@ import requests
 
 startdate = '2019-09-01'
 enddate = '2021-10-01'
-outdir = 'sfc'
+outdir = '../sfc'
 
 #analysis = 'namussfc' # CONUS
 analysis = 'usfntsfc' # fronts
